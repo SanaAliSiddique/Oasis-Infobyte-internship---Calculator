@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UnitConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="Theme.UnitConverter" parent="Base.Theme.UnitConverter">
+        <item name="android:statusBarColor">#FF774936</item>
+        <item name="android:navigationBarColor">#FF774936</item>
+    </style>
+</resources>

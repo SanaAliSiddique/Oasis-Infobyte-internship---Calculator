@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter">Enter</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="enter_temperature">Enter Temperature</string>
+    <string name="select_an_option">Select an option</string>
+    <string name="show_toast">Show toast</string>
+    <string name="convert">Convert</string>
+    <string name="enter_the_value">Enter the value</string>
+    <string name="_0_degree">0 degree</string>
+    <string name="_00">00</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="conversion">Conversion</string>
+    <string name="textview">TextView</string>
+    <string name="degcelsius">°Celsius</string>
+    <string name="degfahrenheit">°Fahrenheit</string>
+    <string name="degkelvin">°Kelvin</string>
+    <string name="developed_by_sana_ali_siddique">Developed by Sana Ali Siddique</string>
+</resources>

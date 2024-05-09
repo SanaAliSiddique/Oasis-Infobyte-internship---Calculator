@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_list">
+        <item> °Celsius to °Fahrenheit </item>
+        <item> °Celsius to °Kelvin </item>
+        <item> °Kelvin to °Celsius </item>
+        <item> °Kelvin to °Fahrenheit </item>
+        <item> °Fahrenheit to °Celsius </item>
+        <item> °Fahrenheit to °Kelvin </item>
+    </string-array>
+</resources>
